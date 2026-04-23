@@ -1,0 +1,11 @@
+,Name,Age,Salary,Department,Experience_Years,Performance_Score
+0,Ali,21.0,50000.0,IT,1.0,
+1,Ahmed,23.5,60000.0,IT,2.0,80.0
+2,Sara,22.0,73333.33333333333,HR,,75.0
+3,Hina,23.0,73333.33333333333,Finance,3.0,
+4,Usman,23.5,80000.0,IT,4.0,90.0
+5,Ahmed,24.0,75000.0,HR,,85.0
+6,Ayesha,23.5,73333.33333333333,IT,2.0,
+7,Bilal,25.0,90000.0,Finance,,88.0
+8,Ahmed,26.0,73333.33333333333,IT,5.0,
+9,Zara,23.5,85000.0,IT,,92.0

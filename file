@@ -1,0 +1,10 @@
+| Name   | Age | Gender | Department | Salary | City      | Experience | Remote | Performance |
+| ------ | --- | ------ | ---------- | ------ | --------- | ---------- | ------ | ----------- |
+| Ali    | 25  | Male   | IT         | 50000  | Lahore    | 2          | Yes    | Good        |
+| Sara   | 28  | Female | HR         | 52000  | Karachi   | 3          | No     | Excellent   |
+| Ahmed  | NaN | Male   | Finance    | 48000  | Lahore    | 2          | Yes    | Average     |
+| Hina   | 26  | Female | IT         | NaN    | Islamabad | 4          | Yes    | Good        |
+| Bilal  | 30  | Male   | HR         | 60000  | NaN       | 5          | No     | Excellent   |
+| Ayesha | 27  | Female | Finance    | 51000  | Karachi   | NaN        | Yes    | Good        |
+| Usman  | 29  | Male   | IT         | 100000 | Lahore    | 6          | No     | Excellent   |
+| Zara   | NaN | Female | HR         | 47000  | Islamabad | 2          | Yes    | Average     |
